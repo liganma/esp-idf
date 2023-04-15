@@ -2,6 +2,8 @@
 
 * [中文版](./README_CN.md)
 
+加一行
+
 ESP-IDF is the development framework for Espressif SoCs supported on Windows, Linux and macOS.
 
 # ESP-IDF Release Support Schedule
